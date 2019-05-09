@@ -6,18 +6,31 @@ Text Mining using Match Words From Multiple Files : for Clinical Notes
 **(1) Exploratory data analysis (EDA)**
 
  Descriptive statistics of word counts
+ 
  Identify common words
+ 
  Identify uncommon words
+ 
  Libraries for text preprocessing
+ 
  Creating a list of stop words and adding custom stopwords
+ 
  Word cloud
+ 
  Most frequently occuring words
+ 
  Convert most freq words to dataframe for plotting bar plot
+ 
  Barplot of most freq words
+ 
  Most frequently occuring Bi-grams
+ 
  Most frequently occuring Tri-grams
+ 
  Barplot of most freq Tri-grams
+ 
  Fetch document for which keywords needs to be extracted
+ 
  Generate tf-idf for the given document
 
 
