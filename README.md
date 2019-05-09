@@ -1,9 +1,12 @@
 # EasyMatchy
+
 Text Mining using Match Words From Multiple Files : for Clinical Notes
 
 **Steps**
 
 **(1) Exploratory data analysis (EDA)**
+
+FYI: you can merege all notes in one file by unix command cat * > ClinicalNotes.txt
 
  Descriptive statistics of word counts
  
