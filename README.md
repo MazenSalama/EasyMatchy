@@ -29,33 +29,33 @@ Text Mining using Match Words From Multiple Files : for Clinical Notes
 **(1) Exploratory data analysis (EDA)**
 
 
- Descriptive statistics of word counts
+- Descriptive statistics of word counts
  
- Identify common words
+- Identify common words
  
- Identify uncommon words
+- Identify uncommon words
  
- Libraries for text preprocessing
+- Libraries for text preprocessing
  
- Creating a list of stop words and adding custom stopwords
+- Creating a list of stop words and adding custom stopwords
  
- Word cloud
+- Word cloud
  
- Most frequently occuring words
+- Most frequently occuring words
  
- Convert most freq words to dataframe for plotting bar plot
+- Convert most freq words to dataframe for plotting bar plot
  
- Barplot of most freq words
+- Barplot of most freq words
  
- Most frequently occuring Bi-grams
+- Most frequently occuring Bi-grams
  
- Most frequently occuring Tri-grams
+- Most frequently occuring Tri-grams
  
- Barplot of most freq Tri-grams
+- Barplot of most freq Tri-grams
  
- Fetch document for which keywords needs to be extracted
+- Fetch document for which keywords needs to be extracted
  
- Generate tf-idf for the given document
+- Generate tf-idf for the given document
 
 
 
@@ -83,9 +83,10 @@ Note Name | matched sentence | Label ( postive or negative or neutral )
 
 - Requirements ;
 
-pip3 install click
+- pip3 install click
 
-pip3 install fuzzywuzzy
+- pip3 install fuzzywuzzy
+
 
 1-Obtain your clinical notes
 
