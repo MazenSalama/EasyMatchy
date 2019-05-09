@@ -22,7 +22,7 @@ Text Mining using Match Words From Multiple Files : for Clinical Notes
 
 
 
-**(2) Match Words From Multiple Files **
+**(2) Match Words From Multiple Files**
 
 load txt Note File
 
