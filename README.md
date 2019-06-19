@@ -68,25 +68,25 @@ It is also known as approximate string matching.
 
 **(2) Match Words From Multiple Files**
 
-load txt Note File
+- load txt Note File
 
-Match any word exits in Keyword File from lines with txt in Note
+- Match any word exits in Keyword File from lines with txt in Note
 
-Exctract the sentnce that contain the word from Keyword
+- Exctract the sentnce that contain the word from Keyword
 
-Label postive for any matching word per line in pos txt
+- Label postive for any matching word per line in pos txt
 
-Label negative for any matching word per line in neg txt
+- Label negative for any matching word per line in neg txt
 
-Label neutral for none matching from pos or neg
+- Label neutral for none matching from pos or neg
 
-Exctract date from file1 export in excel file as following
+- Exctract date from file1 export in excel file as following
 
-Name of text Note File , matched word from keyword, exctracted sentnce , label Format of CSV
+- Name of text Note File , matched word from keyword, exctracted sentnce , label Format of CSV
 
-Note Name | matched sentence | Label ( postive or negative or neutral )
+- Note Name | matched sentence | Label ( postive or negative or neutral )
 
-**How to Use **
+**How to Use**
 
 - Requirements ;
 
