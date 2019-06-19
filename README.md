@@ -2,6 +2,12 @@
 
 Text Mining using Match Words From Multiple Files : for Clinical Notes
 
+# Background 
+
+Fuzzy string matching is a technique to find strings that match a pattern approximately not exactly. It is a type of search that will find matches even when users misspell words or enter only some partial words for the search. 
+It is also known as approximate string matching.
+
+
 ## Project Concept
 
 - load txt Note File
@@ -20,10 +26,11 @@ Text Mining using Match Words From Multiple Files : for Clinical Notes
 
 - name of text Note File , matched word from keyword, exctracted sentnce , label
 
+- Sentiment Analysis Step based on ML approach: Develop a classification model, which is trained using the pre-labeled dataset of positive, negative, and neutral.
+
 
 #### Format of CSV
 + file1 name | matched sentence | Label ( postive or negative or neutral )
-
 **Steps**
 
 **(1) Exploratory data analysis (EDA)**
